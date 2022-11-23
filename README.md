@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - Arrays
-  - Prefix Sum
+  - [Prefix Sum]
   - Carry Forward
   - Sub Arrays
   - 2D Matrices
